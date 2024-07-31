@@ -2,8 +2,6 @@
 - 👀 I’m interested in visual design and very recently coding
 - 🌱 I’m currently learning all you need to know to become a Front-End Developer (and i've only cried four times so far)
 - 💞️ I’m looking to collaborate on cool projects, share ideas with you guys, it could be fun !
-- 📫 How to reach me : hhelysa on instagram
-- ⚡ Fun fact: ...
 
 <!---
 hhelysa/hhelysa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
